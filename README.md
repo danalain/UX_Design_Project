@@ -86,7 +86,7 @@ For an effective choice architecture, we recommend using the following strategie
 
 ### Product Design
 
-![Product Design](Images/UX_design)
+![Product Design](Images/UX_design.PNG)
 
 *__Link to Figma__: [LMS Mock Up](https://www.figma.com/file/OVJvKZ5PFh8IlrSbExqhBH/LMS-Mock-Up?node-id=0%3A1)
 
